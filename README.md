@@ -2,7 +2,7 @@ Hii guys, Saya Sherina Nurul Fasha
 , saya pemula dalam bidang programmer. Sekarang tinggal di Brebes Indonesia.
 
 ## Language and Tools
-- HTML
+- ![HTML](https://teknologi.visitklaten.com/wp-content/uploads/2022/11/Membuat-HTML5-Logo-Animation-HTML-CSS.webp)
 - CSS
 - JavaScript
 - Bootstrap
@@ -18,4 +18,3 @@ Hii guys, Saya Sherina Nurul Fasha
 - Git
 - AdobePhotoshop
 - CorelDraw
-- 
