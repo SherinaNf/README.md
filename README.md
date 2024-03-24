@@ -11,9 +11,7 @@ Hii guys, Saya Sherina Nurul Fasha
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="CodeIgniter" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="45" height="45">
-<img src="[https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)" alt="Figma" width="45" height="45">
+<img src="(https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)" alt="Figma" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="45" height="45">
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="45" height="45">
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="45" height="45">
